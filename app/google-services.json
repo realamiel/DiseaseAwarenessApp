@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "968561878324",
+    "firebase_url": "https://diseaseawarenessapp.firebaseio.com",
+    "project_id": "diseaseawarenessapp",
+    "storage_bucket": "diseaseawarenessapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968561878324:android:dc3cc57c76c5d463",
+        "android_client_info": {
+          "package_name": "com.real.francisamiel.diseaseawarenessapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "968561878324-5rbiuc19cboehndl4q4mrshftv1qbsap.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.real.francisamiel.diseaseawarenessapp",
+            "certificate_hash": "5565c198bad77bb220213cce00baf0d8c3ef4ccc"
+          }
+        },
+        {
+          "client_id": "968561878324-crhk435qrk7es50l9cqsb1gpbrugtt9o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8VMYXZq3aKaJ6alMitXVIx3AOqmqVnHg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "968561878324-crhk435qrk7es50l9cqsb1gpbrugtt9o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
