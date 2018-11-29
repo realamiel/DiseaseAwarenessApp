@@ -2,7 +2,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.real.francisamiel.diseaseawarenessapp">
 
-    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.INTERNET" />
 
     <application
         android:allowBackup="true"
@@ -24,7 +24,13 @@
         <activity android:name=".CoronaryHeartDisease" />
         <activity android:name=".Pneumonia" />
         <activity android:name=".Stroke" />
-        <activity android:name=".DiseaseList"></activity>
+        <activity android:name=".DiseaseList" />
+        <activity android:name=".Asthma" />
+        <activity android:name=".BreastCancer" />
+        <activity android:name=".ChronicKidneyDisease" />
+        <activity android:name=".Hypertension" />
+        <activity android:name=".Malaria" />
+        <activity android:name=".Tubercolosis"></activity>
     </application>
 
 </manifest>
