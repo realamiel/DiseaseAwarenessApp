@@ -41,7 +41,7 @@
             android:layout_gravity="center_horizontal|center"
             android:background="#303f9f"
             android:onClick="process"
-            android:text="Symptoms"
+            android:text="Search"
             android:textColor="@android:color/white"
             android:textSize="22sp"
             android:textStyle="bold" />
